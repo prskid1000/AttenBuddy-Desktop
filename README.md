@@ -3,13 +3,13 @@
 ![Last Commit](https://img.shields.io/github/last-commit/prskid1000/Template)
 
 
-![1](https://github.com/[prskid1000]/[AttenBuddy-Desktop]/blob/[main]/Preview/1.png?raw=true)
+![1](https://github.com/[prskid1000]/AttenBuddy-Desktop/blob/main/Preview/1.png?raw=true)
 
-![2](https://github.com/[prskid1000]/[AttenBuddy-Desktop]/blob/[main]/Preview/2.png?raw=true)
+![2](https://github.com/[prskid1000]/AttenBuddy-Desktop/blob/main/Preview/2.png?raw=true)
 
-![3](https://github.com/[prskid1000]/[AttenBuddy-Desktop]/blob/[main]/Preview/3.png?raw=true)
+![3](https://github.com/[prskid1000]/AttenBuddy-Desktop/blob/main/Preview/3.png?raw=true)
 
-![4](https://github.com/[prskid1000]/[AttenBuddy-Desktop]/blob/[main]/Preview/4.png?raw=true)
+![4](https://github.com/[prskid1000]/AttenBuddy-Desktop/blob/main/Preview/4.png?raw=true)
 
 
 ## Getting started
