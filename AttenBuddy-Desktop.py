@@ -167,15 +167,22 @@ def scrollgridU(Screen,components,pos, size):
     return scroll
 
 def AddU():
-        data = {
+
+        if(ilevel[0] == "teacher"):
+            data = {
             'userid': iuser[0],
             'password': ipass[0],
             'level': ilevel[0],
-        }
-
-        url  = "https://attenbuddy.herokuapp.com/add_student"
-        if(ilevel[0] == "teacher"):
-             url  = "https://attenbuddy.herokuapp.com/add_teacher"
+             }
+            url  = "https://attenbuddy.herokuapp.com/add_teacher"
+        else:
+            data = {
+            'userid': iuser[0],
+            'password': ipass[0],
+            'level': "student",
+            'batch': ilevel[0],
+             }
+            url  = "https://attenbuddy.herokuapp.com/add_student"
 
         res = requests.post(url = url,data=data).json()
         root.clear_widgets()
@@ -209,8 +216,8 @@ def User():
         Color(0.3, 0.3, 0.3, 0.9)
 
     User.add_widget(label(525, 390, "UserId"))
-    User.add_widget(label(535, 310, "Password"))
-    User.add_widget(label(520, 230, "Level"))
+    User.add_widget(label(540, 310, "Password"))
+    User.add_widget(label(550, 230, "Level/Batch"))
     User.add_widget(textinput(550, 390, iuser))
     User.add_widget(textinput(550, 310, ipass))
     User.add_widget(textinput(550, 230, ilevel))
