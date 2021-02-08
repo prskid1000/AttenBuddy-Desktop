@@ -1,7 +1,19 @@
-# Template
+# AttenBuddy-Desktop
 ![All Contributors](https://img.shields.io/github/contributors/prskid1000/CPMath)
 ![Last Commit](https://img.shields.io/github/last-commit/prskid1000/Template)
-<br>A Template Repository
+
+
+![alt text](https://github.com/[prskid1000]/[AttenBuddy-Desktop]/blob/[master]/Preview/Screenshot (65).png
+?raw=true)
+
+![alt text](https://github.com/[prskid1000]/[AttenBuddy-Desktop]/blob/[master]/Preview/Screenshot (67).png
+?raw=true)
+
+![alt text](https://github.com/[prskid1000]/[AttenBuddy-Desktop]/blob/[master]/Preview/Screenshot (68).png
+?raw=true)
+
+![alt text](https://github.com/[prskid1000]/[AttenBuddy-Desktop]/blob/[master]/Preview/Screenshot (69).png
+?raw=true)
 
 
 ## Getting started
