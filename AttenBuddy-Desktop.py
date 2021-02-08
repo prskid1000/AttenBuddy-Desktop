@@ -173,9 +173,6 @@ def AddU():
             'level': ilevel[0],
         }
 
-        print(data)
-        print(ilevel)
-
         url  = "https://attenbuddy.herokuapp.com/add_student"
         if(ilevel[0] == "teacher"):
              url  = "https://attenbuddy.herokuapp.com/add_teacher"
