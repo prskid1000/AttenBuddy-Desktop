@@ -3,13 +3,24 @@
 ![Last Commit](https://img.shields.io/github/last-commit/prskid1000/Template)
 
 
-![1](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview/1.png?raw=true)
+## 2021(Flutter)-<br>
+![1](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview21/1.png?raw=true)
 
-![2](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview/2.png?raw=true)
+![2](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview21/2.png?raw=true)
 
-![3](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview/3.png?raw=true)
+![3](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview21/3.png?raw=true)
 
-![4](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview/4.png?raw=true)
+![4](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview21/4.png?raw=true)
+
+
+## 2020(Kivy)-<br>
+![1](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview20/1.png?raw=true)
+
+![2](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview20/2.png?raw=true)
+
+![3](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview20/3.png?raw=true)
+
+![4](https://github.com/prskid1000/AttenBuddy-Desktop/blob/main/Preview20/4.png?raw=true)
 
 ## You may need to pip-install few dependencies-<br>
 - kivy<br>
